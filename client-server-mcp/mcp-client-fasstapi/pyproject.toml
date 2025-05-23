@@ -1,0 +1,20 @@
+[project]
+name = "mcp-client-fasstapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.50.0",
+    "beautifulsoup4>=4.13.4",
+    "chromadb>=0.6.3",
+    "fastapi>=0.115.12",
+    "httpx>=0.28.1",
+    "langchain>=0.3.24",
+    "langchain-community>=0.3.23",
+    "langchain-core>=0.3.56",
+    "mcp[cli]>=1.6.0",
+    "pydantic>=2.11.4",
+    "python-dotenv>=1.1.0",
+    "uvicorn>=0.34.2",
+]
