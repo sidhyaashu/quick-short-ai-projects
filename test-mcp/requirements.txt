@@ -1,0 +1,10 @@
+mcp[cli] 
+httpx
+mcp 
+anthropic 
+python-dotenv
+google-genai
+langchain-mcp-adapters
+langgraph-api>=0.2.3
+langgraph-sdk>=0.1.61
+langgraph
